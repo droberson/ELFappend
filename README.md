@@ -9,4 +9,4 @@ number of other scenarios.
 
 ## Usage
 
-[[https://github.com/droberson/ELFappend/blob/master/img/screenshot.png|alt=screenshot]]
+![Screenshot](https://github.com/droberson/ELFappend/blob/master/img/screenshot.png)
